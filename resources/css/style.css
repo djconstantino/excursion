@@ -24,6 +24,10 @@ body {
   color: gray;
 }
 
+.right-align {
+  text-align: right;
+}
+
 /* LINKS */
 
 .link--cta {
